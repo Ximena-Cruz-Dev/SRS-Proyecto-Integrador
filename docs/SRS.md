@@ -1,3 +1,37 @@
+# 1. Introduccion
+El presente proyecto consiste en desarrollar un videojuego educativo dirigido a niños de 5 a 7 años, con el propósito de fomentar el cuidado y uso responsable del agua potable. Mediante actividades, retos y dinámicas interactivas, se busca enseñar a los niños la importancia de ahorrar agua y adoptar buenos hábitos desde temprana edad, utilizando la tecnología como una herramienta de aprendizaje divertida y educativa.
+
+## 1.1 Propósito
+Describir las características y los requerimientos necesarios para desarrollar el videojuego, estableciendo sus objetivos y funciones principales.
+
+## 1.2 Alcance
+El videojuego busca enseñar a los niños a ahorrar agua, evitar desperdiciarla y desarrollar buenos hábitos mediante retos y actividades interactivas.
+
+## 1.3 Glosario
+- Videojuego educativo: Juego diseñado para enseñar mientras se juega.
+ODS 6: Objetivo que promueve el agua limpia y el saneamiento.
+- Usuario: Persona que utiliza el videojuego.
+- Requerimiento funcional: Función que debe realizar el videojuego.
+- Requerimiento no funcional: Características de calidad, como facilidad de uso y rapidez.
+Agua potable: Agua apta para el consumo humano.
+
+# 2. Descripción general
+
+## 2.1 Usuarios
+El videojuego está dirigido principalmente a niños de 5 a 7 años de Manzanillo, Colima, que aprenderán mediante juegos y actividades interactivas cómo cuidar el agua potable.
+
+## 2.2 Restricciones
+- Debe ser sencillo y fácil de utilizar.
+- El contenido debe ser adecuado para niños de 5 a 7 años.
+- Debe contar con instrucciones claras e imágenes llamativas.
+- Su desarrollo dependerá de los conocimientos y recursos disponibles del equipo.
+
+## 2.3 Supuestos
+- Se considera que los niños tendrán acceso a una computadora para utilizar el videojuego.
+- Los usuarios podrán comprender instrucciones sencillas con apoyo de imágenes.
+- Los niños contarán con apoyo de un adulto si lo necesitan.
+- Se espera que las actividades ayuden a mejorar sus hábitos sobre el cuidado del agua.
+
 # 3. Requerimientos del sistema
 
 ## 3.1 Requerimientos funcionales
