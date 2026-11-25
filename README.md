@@ -3,8 +3,9 @@
 ## Capturas del juego
 
 ### Pantalla 1: Inicio
-![Pantalla 1](3-pantallas/pantalla1.png)
-Descripción de la pantalla.
+![Pantalla 1](3-pantallas/Pantalla_Inicio.png)
+Esta es la primera pantalla que ve el jugador al abrir el videojuego. Arriba aparece el título "La Misión de las Gotitas" dentro de una nube, y a la izquierda está la gotita sonriendo y saludando para dar la bienvenida. En el centro hay dos botones: "Créditos", en color morado, donde se muestra quiénes hicieron el juego, y "Jugar", en color amarillo, que lleva al jugador a elegir su misión. El fondo es un cielo azul con nubes y pasto, para que se vea alegre y llamativo para los niños.
+
 
 ### Pantalla 5: Victoria
 ![Pantalla 5](3-pantallas/victoria.png)
