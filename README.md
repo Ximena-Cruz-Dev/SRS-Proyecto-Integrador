@@ -22,7 +22,7 @@ La pantalla de selección de niveles presenta tres botones de diferentes colores
 Esta es la pantalla que aparece cuando el niño gana el nivel. En el centro sale la gotita feliz con los dos pulgares arriba y, debajo, el letrero dorado "WINNER!" para felicitar al jugador. Más abajo aparece la pregunta "CONTINUE?" con las opciones YES o NO, para que el jugador decida si sigue jugando o si sale del juego. Arriba a la izquierda está el botón "SETTINGS" para abrir la configuración y arriba a la derecha el botón "MAP" para ver el mapa del juego. El fondo es un cielo azul con nubes y arbustos verdes, para mantener el mismo estilo alegre de las demás pantallas.
 
 ## Diseño de pantallas
-Puedes ver el diseño completo aquí: [Diseño en Figma](PEGA-AQUÍ-EL-LINK)
+Puede ver el diseño completo aquí: [Diseño en Figma](https://www.figma.com/design/DwgEvO1ofDEtu0UNA4gsb9/PI_JUEGO_MISI%C3%93NDELASGOTITAS?node-id=1-1&t=48a6L02jBCBdWqx1-1)
 
 ## Autores
 
