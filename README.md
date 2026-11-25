@@ -4,8 +4,11 @@
 
 ### Pantalla 1: Inicio
 ![Pantalla 1](3-pantallas/Pantalla_Inicio.png)
-Esta es la primera pantalla que ve el jugador al abrir el videojuego. Arriba aparece el título "La Misión de las Gotitas" dentro de una nube, y a la izquierda está la gotita sonriendo y saludando para dar la bienvenida. En el centro hay dos botones: "Créditos", en color morado, donde se muestra quiénes hicieron el juego, y "Jugar", en color amarillo, que lleva al jugador a elegir su misión. El fondo es un cielo azul con nubes y pasto, para que se vea alegre y llamativo para los niños.
+Esta es la primera pantalla que ve el niño al abrir el videojuego. Arriba aparece el título "La Misión de las Gotitas" dentro de una nube, y a la izquierda está la gotita sonriendo y saludando para dar la bienvenida. En el centro hay dos botones: "Créditos", en color morado, donde se muestra quiénes hicieron el juego, y "Jugar", en color amarillo, que lleva al jugador a elegir su misión. El fondo es un cielo azul con nubes y pasto, para que se vea alegre y llamativo para los niños.
 
+### Pantalla 2: Selecciona tu misión
+![Pantalla 2](3-pantallas/Seleccion_Mision.png)
+En esta pantalla el niño elige el nivel que quiere jugar. Arriba dice "Selecciona tu misión" y abajo hay tres tarjetas de colores, cada una con un dibujo que ayuda a entender de qué trata. El Nivel 1, "Cuidar el agua", tiene una llave goteando y es de color amarillo. El Nivel 2, "Detectives del agua", tiene un vaso con agua y es de color morado. El Nivel 3, "Misión de ahorro", tiene una regadera con una plantita y es de color verde. Los dibujos grandes y los colores distintos hacen que a los niños de 5 a 7 años les sea fácil reconocer cada misión.
 
 ### Pantalla 5: Victoria
 ![Pantalla 5](3-pantallas/victoria.png)
